@@ -13,7 +13,7 @@ services:
       P4PASSWD: 'P@ssw0rd'
       P4D_USE_UNICODE: 'true'
       P4D_LOAD_TYPEMAPS: 'false'
-      P4D_LOAD_USERS: 'false'
+      P4D_LOAD_USERS: 'true'
       P4D_LOAD_USER_PASSWORDS: 'false'
       P4D_LOAD_GROUPS: 'false'
       P4D_LOAD_DEPOTS: 'false'
