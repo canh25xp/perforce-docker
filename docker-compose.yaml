@@ -1,4 +1,3 @@
-version: '2.1'
 volumes:
   p4d_data: {}
   swarm_data: {}
