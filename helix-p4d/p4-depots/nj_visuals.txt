@@ -1,0 +1,9 @@
+Depot:          nj_visuals
+Owner:          p4admin
+Description:
+                Concept art, MV boards, and teaser visual direction.
+Type:           local
+Address:        local
+Suffix:         .p4s
+StreamDepth:    //nj_visuals/1
+Map:            nj_visuals/...

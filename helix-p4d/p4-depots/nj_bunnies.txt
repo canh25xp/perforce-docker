@@ -1,0 +1,9 @@
+Depot:          nj_bunnies
+Owner:          p4admin
+Description:
+                Community content, fan events, and Bunnies campaign assets.
+Type:           local
+Address:        local
+Suffix:         .p4s
+StreamDepth:    //nj_bunnies/1
+Map:            nj_bunnies/...

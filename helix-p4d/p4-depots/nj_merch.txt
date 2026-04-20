@@ -1,0 +1,9 @@
+Depot:          nj_merch
+Owner:          p4admin
+Description:
+                Fan kit, merchandise packaging, and drop checklists.
+Type:           local
+Address:        local
+Suffix:         .p4s
+StreamDepth:    //nj_merch/1
+Map:            nj_merch/...

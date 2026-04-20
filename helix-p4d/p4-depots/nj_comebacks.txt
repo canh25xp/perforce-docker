@@ -1,0 +1,9 @@
+Depot:          nj_comebacks
+Owner:          p4admin
+Description:
+                NewJeans comeback planning, schedules, and release packs.
+Type:           local
+Address:        local
+Suffix:         .p4s
+StreamDepth:    //nj_comebacks/1
+Map:            nj_comebacks/...

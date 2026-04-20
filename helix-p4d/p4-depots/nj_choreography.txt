@@ -1,0 +1,9 @@
+Depot:          nj_choreography
+Owner:          p4admin
+Description:
+                Choreo drafts, stage blocking, and rehearsal references.
+Type:           local
+Address:        local
+Suffix:         .p4s
+StreamDepth:    //nj_choreography/1
+Map:            nj_choreography/...

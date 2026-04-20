@@ -15,7 +15,7 @@ services:
       P4D_LOAD_USERS: 'true'
       P4D_LOAD_USER_PASSWORDS: 'true'
       P4D_LOAD_GROUPS: 'false'
-      P4D_LOAD_DEPOTS: 'false'
+      P4D_LOAD_DEPOTS: 'true'
       P4D_LOAD_PROTECTIONS: 'false'
       SWARM_URL: 'http://localhost:8080'
       INSTALL_SWARM_TRIGGER: 'true'
