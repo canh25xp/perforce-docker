@@ -17,8 +17,8 @@ services:
       P4D_LOAD_GROUPS: 'false'
       P4D_LOAD_DEPOTS: 'true'
       P4D_LOAD_PROTECTIONS: 'false'
-      SWARM_URL: 'http://localhost:8080'
-      INSTALL_SWARM_TRIGGER: 'true'
+      SWARM_URL: ''
+      INSTALL_SWARM_TRIGGER: 'false'
       SWARM_TRIGGER_TOKEN: '123457809'
     volumes:
       - p4d_data:/data
