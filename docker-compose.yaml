@@ -9,7 +9,7 @@ services:
       - '1666:1666'
     environment:
       P4USER: 'p4admin'
-      P4PASSWD: 'P@ssw0rd'
+      P4PASSWD: 'Admin123'
       P4D_USE_UNICODE: 'true'
       P4D_LOAD_TYPEMAPS: 'false'
       P4D_LOAD_USERS: 'true'
@@ -30,10 +30,10 @@ services:
     environment:
       P4PORT: 'ssl:p4d:1666'
       P4USER: 'p4admin'
-      P4PASSWD: 'P@ssw0rd'
+      P4PASSWD: 'Admin123'
       P4D_USE_UNICODE: 'true'
       SWARM_USER: 'p4admin'
-      SWARM_PASSWD: 'P@ssw0rd'
+      SWARM_PASSWD: 'Admin123'
       SWARM_USER_CREATE: 'false'
       SWARM_GROUP_CREATE: 'false'
       SWARM_HOST: 'localhost'
